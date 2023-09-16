@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mskdictionary/static/css/main.b89c902e.css",
+    "main.js": "/mskdictionary/static/js/main.f4576709.js",
+    "static/js/787.0662e7d7.chunk.js": "/mskdictionary/static/js/787.0662e7d7.chunk.js",
+    "index.html": "/mskdictionary/index.html",
+    "main.b89c902e.css.map": "/mskdictionary/static/css/main.b89c902e.css.map",
+    "main.f4576709.js.map": "/mskdictionary/static/js/main.f4576709.js.map",
+    "787.0662e7d7.chunk.js.map": "/mskdictionary/static/js/787.0662e7d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b89c902e.css",
+    "static/js/main.f4576709.js"
+  ]
+}
